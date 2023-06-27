@@ -1,0 +1,37 @@
+#emil {
+  background-color: aqua;
+}
+#emil2 {
+  background-color: rgba(0, 255, 213, 0.871);
+}
+body {
+  background-color: rgba(215, 250, 245, 0.63);
+}
+
+#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.li2 {
+  float: none;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgba(255, 255, 255, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
